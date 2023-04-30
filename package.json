@@ -1,14 +1,14 @@
 {
   "name": "Bot-Telegram-Chatgpt",
   "version": "1.0.0",
-  "description": "Bot Telegram Chatgpt Nodejs",
+  "description": "Bot Telegram ChatGpt Nodejs",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
   "author": "@srart24",
-  "license": "GNU",
+  "license": "GPL",
   "dependencies": {
     "express": "^4.18.2",
     "openai": "^3.2.1",
