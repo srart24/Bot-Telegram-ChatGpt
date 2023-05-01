@@ -18,7 +18,6 @@ $ npm start
 
 ## Setting
 Untuk settinganya bisa [disini](https://github.com/srart24/Bot-Telegram-ChatGpt/blob/srart24/setting/setting.js)
-------
 
 #author
 ------
