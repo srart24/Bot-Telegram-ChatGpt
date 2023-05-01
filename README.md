@@ -7,10 +7,13 @@ Bot Telegram ChatGpt Nodejs
 
 ``` bash
 
-$ git clone https://github.com/srart24/Bot-Telegram-ChatGpt
-$ cd Bot-Telegram-ChatGpt
-$ npm install or yarn install
-$ npm start
+git clone https://github.com/srart24/Bot-Telegram-ChatGpt
+
+cd Bot-Telegram-ChatGpt
+
+npm install
+
+npm start
 ```
 
 ## Setting
